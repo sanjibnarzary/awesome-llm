@@ -23,5 +23,19 @@ One of the most important aspects of LLMs is their ability to learn from large a
 ## Fine Tuned Models
 - Alpaca: Stanford Alpaca: An Instruction-following LLaMA Model
   - Fine tuned on *LLaMA*
+  - Application for Dialogue System or ChatGPT alternative
   - [Code](https://github.com/tatsu-lab/stanford_alpaca.git)
   - [Paper](https://crfm.stanford.edu/2023/03/13/alpaca.html)
+- Koala: A Dialogue Model for Academic Research
+  - Fine tuned on *LLaMA* 
+  - Application for Dialogue System or ChatGPT alternative
+  - [Code](https://github.com/young-geng/EasyLM)
+  - [Paper](https://bair.berkeley.edu/blog/2023/04/03/koala/)
+  - [Demo](https://chat.lmsys.org/?model=koala-13b)
+
+- Vicuna: 
+  - Fine tuned on *LLaMA* 
+  - Application for Dialogue System or ChatGPT alternative
+  - [Code](https://github.com/lm-sys/FastChat)
+  - [Paper](https://vicuna.lmsys.org/)
+  - [Demo](https://chat.lmsys.org/)
