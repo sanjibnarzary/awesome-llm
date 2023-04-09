@@ -33,7 +33,7 @@ One of the most important aspects of LLMs is their ability to learn from large a
   - [Paper](https://bair.berkeley.edu/blog/2023/04/03/koala/)
   - [Demo](https://chat.lmsys.org/?model=koala-13b)
 
-- Vicuna: 
+- Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality 
   - Fine tuned on *LLaMA* 
   - Application for Dialogue System or ChatGPT alternative
   - [Code](https://github.com/lm-sys/FastChat)
