@@ -12,6 +12,10 @@ One of the most important aspects of LLMs is their ability to learn from large a
   - Model Parameters - 7B, 13B, 33B, 65B
   - [Code](https://github.com/facebookresearch/llama)
   - [Paper](https://arxiv.org/abs/2302.13971)
+- OPT (Open Pre-trained Transformers)
+  - Model Parameters - 125M, 350M, 1.3B, 2.7B, 13B, 30B, 66B, 175B
+  - [Code](https://github.com/facebookresearch/metaseq/tree/main/projects/OPT)
+  - [Paper](https://arxiv.org/abs/2205.01068)
 ## Fine Tuned Models
 - Alpaca: Stanford Alpaca: An Instruction-following LLaMA Model
   - Fine tuned on *LLaMA*
