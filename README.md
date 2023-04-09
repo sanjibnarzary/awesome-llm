@@ -14,5 +14,6 @@ One of the most important aspects of LLMs is their ability to learn from large a
   - [Paper](https://arxiv.org/abs/2302.13971)
 ## Fine Tuned Models
 - Alpaca: Stanford Alpaca: An Instruction-following LLaMA Model
+  - Fine tuned on *LLaMA*
   - [Code](https://github.com/tatsu-lab/stanford_alpaca.git)
   - [Paper](https://crfm.stanford.edu/2023/03/13/alpaca.html)
