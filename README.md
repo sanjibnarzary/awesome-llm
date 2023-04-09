@@ -8,6 +8,10 @@ LLMs are able to generate text that is often indistinguishable from text written
 One of the most important aspects of LLMs is their ability to learn from large amounts of data. They are often trained on massive datasets of text, such as books, articles, and social media posts. By analyzing this data, they are able to learn the patterns and structures of language and use that knowledge to generate new text.
 
 ## Large Language Models
+- Bloom:
+  - Model Parameters - 366B
+  - [Code](https://huggingface.co/bigscience/bloom)
+  - [Paper](https://bigscience.huggingface.co/)
 - LLaMA: Open and Efficient Foundation Language Models
   - Model Parameters - 7B, 13B, 33B, 65B
   - [Code](https://github.com/facebookresearch/llama)
