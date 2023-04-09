@@ -9,7 +9,7 @@ One of the most important aspects of LLMs is their ability to learn from large a
 
 ## Large Language Models
 - Bloom: BigScience Large Open-science Open-access Multilingual Language Model
-  - Model Parameters - 366B
+  - Model Parameters - 176B
   - [Code](https://huggingface.co/bigscience/bloom)
   - [Paper](https://arxiv.org/abs/2211.05100)
 - LLaMA: Open and Efficient Foundation Language Models
