@@ -26,6 +26,9 @@ One of the most important aspects of LLMs is their ability to learn from large a
   - Application for Dialogue System or ChatGPT alternative
   - [Code](https://github.com/tatsu-lab/stanford_alpaca.git)
   - [Paper](https://crfm.stanford.edu/2023/03/13/alpaca.html)
+- Alpaca-lora:
+  - Training chatGPT alternative on consumer device gpus
+  - [Code](https://github.com/sanjibnarzary/awesome-llm)
 - Koala: A Dialogue Model for Academic Research
   - Fine tuned on *LLaMA* 
   - Application for Dialogue System or ChatGPT alternative
