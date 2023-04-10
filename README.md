@@ -46,3 +46,6 @@ One of the most important aspects of LLMs is their ability to learn from large a
   - [Code](https://github.com/lm-sys/FastChat)
   - [Paper](https://vicuna.lmsys.org/)
   - [Demo](https://chat.lmsys.org/)
+- Xturing: xturing provides fast, efficient and simple fine-tuning of LLMs, such as LLaMA, GPT-J, GPT-2, OPT, Cerebras-GPT, Galactica, and more. By providing an easy-to-use interface for personalizing LLMs to your own data and application, xTuring makes it simple to build and control LLMs. The entire process can be done inside your computer or in your private cloud, ensuring data privacy and security.
+  - [Code](https://github.com/stochasticai/xturing)
+  - Paper - Not available
