@@ -12,6 +12,11 @@ One of the most important aspects of LLMs is their ability to learn from large a
   - Model Parameters - 176B
   - [Code](https://huggingface.co/bigscience/bloom)
   - [Paper](https://arxiv.org/abs/2211.05100)
+- Galactica: A Large Language Model for Science
+  GALACTICA is a general-purpose scientific language model. It is trained on a large corpus of scientific text and data. It can perform scientific NLP tasks at a high level, as well as tasks such as citation prediction, mathematical reasoning, molecular property prediction and protein annotation. More information is available at galactica.org.
+  - Model Parameters - 125M, 1.3B, 6.7B, 30B. 120B
+  - [Code](https://github.com/paperswithcode/galai)
+  - [Paper](https://arxiv.org/abs/2211.09085)
 - LLaMA: Open and Efficient Foundation Language Models
   - Model Parameters - 7B, 13B, 33B, 65B
   - [Code](https://github.com/facebookresearch/llama)
@@ -37,6 +42,7 @@ One of the most important aspects of LLMs is their ability to learn from large a
   - [Code](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama)
   - Paper: Not available
   - Demo: on own model
+
 - Koala: A Dialogue Model for Academic Research
   - Fine tuned on *LLaMA* 
   - Application for Dialogue System or ChatGPT alternative
