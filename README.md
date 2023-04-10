@@ -33,6 +33,10 @@ One of the most important aspects of LLMs is their ability to learn from large a
 - Alpaca-lora:
   - Training chatGPT alternative on consumer device gpus
   - [Code](https://github.com/sanjibnarzary/awesome-llm)
+- 🦙 ChatLLaMA: ChatLLaMA 🦙 is a library that allows you to create hyper-personalized ChatGPT-like assistants using your own data and the least amount of compute possible. Instead of depending on one large assistant that “rules us all”, we envision a future where each of us can create our own personalized version of ChatGPT-like assistants. Imagine a future where many ChatLLaMAs at the "edge" will support a variety of human's needs. But creating a personalized assistant at the "edge" requires huge optimization efforts on many fronts: dataset creation, efficient training with RLHF, and inference optimization.
+  - [Code](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama)
+  - Paper: Not available
+  - Demo: on own model
 - Koala: A Dialogue Model for Academic Research
   - Fine tuned on *LLaMA* 
   - Application for Dialogue System or ChatGPT alternative
