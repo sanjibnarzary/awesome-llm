@@ -21,6 +21,7 @@ One of the most important aspects of LLMs is their ability to learn from large a
   - [Code](https://github.com/facebookresearch/metaseq/tree/main/projects/OPT)
   - [Paper](https://arxiv.org/abs/2205.01068)
 - OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization
+  - Model parameters - 30B, 175B
   - [Code](https://github.com/facebookresearch/metaseq/tree/main/projects/OPT-IML)
   - [Paper](https://arxiv.org/abs/2212.12017)
 ## Fine Tuned Models
