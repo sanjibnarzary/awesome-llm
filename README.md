@@ -52,5 +52,6 @@ One of the most important aspects of LLMs is their ability to learn from large a
   - Demo
   <img src="https://github.com/stochasticai/xturing/raw/main/.github/cli-playground.gif" width="100%" style="margin: 0 1%;"/>
 
-  ## 🌎 Contributing
+
+## 🌎 Contributing
 As an open source project in a rapidly evolving field, we welcome contributions of all kinds, including new features and better documentation.
