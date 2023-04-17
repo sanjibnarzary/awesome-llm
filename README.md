@@ -29,6 +29,12 @@ One of the most important aspects of LLMs is their ability to learn from large a
   - Model parameters - 30B, 175B
   - [Code](https://github.com/facebookresearch/metaseq/tree/main/projects/OPT-IML)
   - [Paper](https://arxiv.org/abs/2212.12017)
+Pythia : a suite of 16 Large Language Models (LLMs) with varying model parameters, ranging from 70 million to 12 billion parameters. Developed by EleutherAI.
+  - Model parameters - 70M, 160M, 410M, 1.0B, 1.4B, 2.8B, 6.9B, 12B
+  - [Code](https://github.com/EleutherAI/pythia/tree/main/models)
+  - [Paper](https://arxiv.org/pdf/2304.01373)
+  - [Hugging Face](https://huggingface.co/EleutherAI/pythia-410m-deduped)
+
 ## Fine Tuned Models
 - Alpaca: Stanford Alpaca: An Instruction-following LLaMA Model
   - Fine tuned on *LLaMA*
