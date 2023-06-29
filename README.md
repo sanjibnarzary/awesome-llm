@@ -21,6 +21,13 @@ One of the most important aspects of LLMs is their ability to learn from large a
   - Model Parameters - 7B, 13B, 33B, 65B
   - [Code](https://github.com/facebookresearch/llama)
   - [Paper](https://arxiv.org/abs/2302.13971)
+- MPT30B: Mosaic Pretrained Transformer
+  - Model Parameters - 30B
+  - [Code](https://github.com/mosaicml/llm-foundry/)
+  - [Model](https://huggingface.co/mosaicml/mpt-30b)
+  - [Blog](https://www.mosaicml.com/blog/mpt-30b)
+  - [Demo](https://huggingface.co/spaces/mosaicml/mpt-30b-chat)
+  - *Release Date*: 22 June, 2023
 - OPT (Open Pre-trained Transformers)
   - Model Parameters - 125M, 350M, 1.3B, 2.7B, 13B, 30B, 66B, 175B
   - [Code](https://github.com/facebookresearch/metaseq/tree/main/projects/OPT)
@@ -55,7 +62,10 @@ One of the most important aspects of LLMs is their ability to learn from large a
   - [Code](https://github.com/young-geng/EasyLM)
   - [Paper](https://bair.berkeley.edu/blog/2023/04/03/koala/)
   - [Demo](https://chat.lmsys.org/?model=koala-13b)
-
+- MPT-30B-Instruct: MPT-30B-Instruct is a model for short-form instruction following. It is built by finetuning MPT-30B on Dolly HHRLHF derived from the Databricks Dolly-15k and the Anthropic Helpful and Harmless (HH-RLHF) datasets. It is also trained on Competition Math, Duorc, CoT GSM8k, Qasper, Quality, Summ Screen FD and Spider.
+  - [Code](https://github.com/mosaicml/llm-foundry/)
+  - [Blog](https://www.mosaicml.com/blog/mpt-30b)
+  - *Release Date*: 22 June, 2023
 - Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality 
   - Fine tuned on *LLaMA* 
   - Application for Dialogue System or ChatGPT alternative
