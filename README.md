@@ -27,6 +27,7 @@ One of the most important aspects of LLMs is their ability to learn from large a
   - [Model](https://huggingface.co/mosaicml/mpt-30b)
   - [Blog](https://www.mosaicml.com/blog/mpt-30b)
   - [Demo](https://huggingface.co/spaces/mosaicml/mpt-30b-chat)
+  - Minimum System Requirements: NVIDIA A100 40GB (It did not work on NVIDIA A100 32GB)
   - *Release Date*: 22 June, 2023
 - OPT (Open Pre-trained Transformers)
   - Model Parameters - 125M, 350M, 1.3B, 2.7B, 13B, 30B, 66B, 175B
@@ -65,8 +66,9 @@ One of the most important aspects of LLMs is their ability to learn from large a
 - MPT-30B-Instruct: MPT-30B-Instruct is a model for short-form instruction following. It is built by finetuning MPT-30B on Dolly HHRLHF derived from the Databricks Dolly-15k and the Anthropic Helpful and Harmless (HH-RLHF) datasets. It is also trained on Competition Math, Duorc, CoT GSM8k, Qasper, Quality, Summ Screen FD and Spider.
   - [Code](https://github.com/mosaicml/llm-foundry/)
   - [Blog](https://www.mosaicml.com/blog/mpt-30b)
-  - *Release Date*: 22 June, 2023
   - [Demo](https://huggingface.co/spaces/mosaicml/mpt-30b-chat)
+  - Minimum System Requirements: NVIDIA A100 40GB (It did not work on NVIDIA A100 32GB)
+  - *Release Date*: 22 June, 2023
 - Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality 
   - Fine tuned on *LLaMA* 
   - Application for Dialogue System or ChatGPT alternative
