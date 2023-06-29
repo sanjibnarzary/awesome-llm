@@ -66,6 +66,7 @@ One of the most important aspects of LLMs is their ability to learn from large a
   - [Code](https://github.com/mosaicml/llm-foundry/)
   - [Blog](https://www.mosaicml.com/blog/mpt-30b)
   - *Release Date*: 22 June, 2023
+  - [Demo](https://huggingface.co/spaces/mosaicml/mpt-30b-chat)
 - Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality 
   - Fine tuned on *LLaMA* 
   - Application for Dialogue System or ChatGPT alternative
