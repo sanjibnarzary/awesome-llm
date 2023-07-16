@@ -89,6 +89,8 @@ One of the most important aspects of LLMs is their ability to learn from large a
   - [Weights](https://huggingface.co/databricks/dolly-v2-7b)
 
 
-
 ## 🌎 Contributing
 As an open source project in a rapidly evolving field, we welcome contributions of all kinds, including new features and better documentation.
+
+## External Link
+Most recent updates may be available at [LLM](https://bharatai.net/c/llms) or [LLM Papers](https://bharatai.net/c/llm_papers)
